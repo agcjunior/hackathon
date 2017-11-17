@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRunner", "VirtualRunner\VirtualRunner.csproj", "{167A8843-ED95-438B-A9BE-EF8E68B017FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167A8843-ED95-438B-A9BE-EF8E68B017FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167A8843-ED95-438B-A9BE-EF8E68B017FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167A8843-ED95-438B-A9BE-EF8E68B017FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167A8843-ED95-438B-A9BE-EF8E68B017FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6AA54F-8649-45E9-AF99-6C9B5507C305}
+	EndGlobalSection
+EndGlobal
