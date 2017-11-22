@@ -75,6 +75,7 @@ namespace VirtualRunner.Controllers
             var doacao = new Doacao
             {
                 Data = DateTime.UtcNow,
+                Referencia = reference,
                 SituacaoPagamento = SituacaoPagamento.AguardandoProcessamento,
                 Valor = 50.00m
             };
