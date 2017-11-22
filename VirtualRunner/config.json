@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "VirtualRunnerConnection": "Database=virtualrunnerdb;Data Source=br-cdbr-azure-south-b.cloudapp.net;User Id=b0c1fd667e6623;Password=21ef58d8;"
+  }
+}

@@ -17,6 +17,7 @@ namespace VirtualRunner.Controllers
 
         public IActionResult Redirecionamento(string id)
         {
+            
             return Content("Sua doação está sendo processada:" + id);
         }
     }
